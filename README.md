@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kovaltine
+- 👋 Hi, I’m Kira
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Ruby
 
