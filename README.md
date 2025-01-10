@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kira
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning Strapi
 
 <!---
 kovaltine/kovaltine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
